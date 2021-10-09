@@ -1,0 +1,25 @@
+body {
+
+    font-size: 15px;
+    line-height: 2em;
+  }
+
+h1{
+
+  font-size: 30px;
+  
+}
+
+
+  .text {
+
+    font-size: 11px;
+  }
+
+
+  .red{
+
+    color:#FF0000;
+    font-weight:bold;
+  }
+  
